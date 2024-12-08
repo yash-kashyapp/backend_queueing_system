@@ -1,0 +1,20 @@
+{
+  "name": "rabbitmqconsumer-backend-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.10.5",
+    "express": "^4.21.2",
+    "knex": "^3.1.0",
+    "mysql2": "^3.11.5",
+    "nodemailer": "^6.9.16"
+  }
+}
